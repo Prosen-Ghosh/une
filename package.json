@@ -1,0 +1,33 @@
+{
+  "name": "une",
+  "version": "1.0.0",
+  "description": "JavaScript Package for checking is variable empty,undefined or null",
+  "main": "une.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "readme": "node ./node_modules/.bin/node-readme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prosen-Ghosh/une.git"
+  },
+  "keywords": [
+    "undefined",
+    "empty",
+    "null",
+    "variable",
+    "string",
+    "number",
+    "object",
+    "array"
+  ],
+  "author": "Prosen Ghosh <prosenghosh25@gmail.com> (https://bd.linkedin.com/in/prosen-ghosh-baba9aa8)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prosen-Ghosh/une/issues"
+  },
+  "homepage": "https://github.com/Prosen-Ghosh/une#readme",
+  "devDependencies": {
+    "node-readme": "^0.1.9"
+  }
+}
